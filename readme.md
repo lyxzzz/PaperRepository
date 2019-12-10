@@ -9,7 +9,8 @@ use **paper_repo_client** (this is a windows program)
 #### &emsp;&emsp;1. first go into paper_repo_client dir `cd paper_repo_client`
 #### &emsp;&emsp;2. then run `mingw32-make`
 
-#### for server: use **paper_repo_server** (this is a linux program)
+#### for server: 
+use **paper_repo_server** (this is a linux program)
 #### &emsp;&emsp;1. first go into paper_repo_server dir `cd paper_repo_server`
 #### &emsp;&emsp;2. then run `make clean` and `make`
 
@@ -21,7 +22,8 @@ use **paper_repo_client** (this is a windows program)
 #### &emsp;&emsp;1. first go into paper_repo_client dir `cd paper_repo_client`
 #### &emsp;&emsp;2. then run `run.bat`
 
-#### for server: use **paper_repo_server** (this is a linux program)
+#### for server: 
+use **paper_repo_server** (this is a linux program)
 ##### &emsp;&emsp;&emsp;&emsp;maybe you'd better run server before you start your client
 #### &emsp;&emsp;1. first go into paper_repo_server dir `cd paper_repo_server`
 #### &emsp;&emsp;2. then run `./run.sh`
