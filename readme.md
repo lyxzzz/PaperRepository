@@ -3,7 +3,8 @@
 
 ## How to build?
 ---
-#### for client: use **paper_repo_client** (this is a windows program)
+#### for client: 
+use **paper_repo_client** (this is a windows program)
 ##### &emsp;&emsp;&emsp;&emsp;if you don't have **g++**, please download.
 #### &emsp;&emsp;1. first go into paper_repo_client dir `cd paper_repo_client`
 #### &emsp;&emsp;2. then run `mingw32-make`
@@ -14,7 +15,8 @@
 
 ## How to run?
 ---
-#### for client: use **paper_repo_client** (this is a windows program)
+#### for client: 
+use **paper_repo_client** (this is a windows program)
 ##### &emsp;&emsp;&emsp;&emsp;assume that your server is runing.
 #### &emsp;&emsp;1. first go into paper_repo_client dir `cd paper_repo_client`
 #### &emsp;&emsp;2. then run `run.bat`
@@ -27,7 +29,7 @@
 ## Parameters
 ---
 #### for client:
-#### &emsp;&emsp;you can change **run.bat** if you want, the parameters list are ***port,ip,repository_dir,config_file***
+&emsp;&emsp;you can change **run.bat** if you want, the parameters list are ***port,ip,repository_dir,config_file***
 
 #### for server:
-#### &emsp;&emsp;you can change **.run** if you want, the parameters list are ***port***
+&emsp;&emsp;you can change **.run** if you want, the parameters list are ***port***
