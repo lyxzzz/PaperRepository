@@ -1,0 +1,1 @@
+gdb --args paper_repository 7777 127.0.0.1 repository config.repo
